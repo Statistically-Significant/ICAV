@@ -1,3 +1,7 @@
 # ICAV
 
-# EXTRACT the files to a folder and run thr Jupyter Notebook
+### EXTRACT the files to a folder and run thr Jupyter Notebook
+
+### Make sure packages are installed; no requirements file added
+
+### Run line 592 to make predictions on specific intervals
