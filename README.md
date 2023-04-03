@@ -1,6 +1,6 @@
 # Assessment - ICAV
 
-### EXTRACT the files to a folder and run thr Jupyter Notebook
+### EXTRACT the files to a folder and run the Jupyter Notebook
 
 ### Make sure packages are installed; no requirements file added
 
